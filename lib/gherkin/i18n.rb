@@ -94,6 +94,7 @@ module Gherkin
     end
 
     def lexer(listener, force_ruby=false)
+      force_ruby = true # we don't care about buggy C lexers the same way as gherkin developers don't care about pure Ruby lexers
       if force_ruby
         rb(listener)
       else
