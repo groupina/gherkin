@@ -1,5 +1,5 @@
 [![Build Status](https://secure.travis-ci.org/cucumber/gherkin.png)](http://travis-ci.org/cucumber/gherkin)
-[![Code.Climate](https://codeclimate.com/repos/5526f0fbe30ba04d7600409a/badges/54e9e79feed291530656/gpa.svg)](https://codeclimate.com/repos/5526f0fbe30ba04d7600409a/feed)
+[![Code Climate](https://codeclimate.com/repos/5526f0fbe30ba04d7600409a/badges/54e9e79feed291530656/gpa.svg)](https://codeclimate.com/repos/5526f0fbe30ba04d7600409a/feed)
 
 A fast lexer and parser for the Gherkin language based on Ragel. Gherkin is two things:
 
